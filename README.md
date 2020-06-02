@@ -42,5 +42,5 @@ $ cd download-files-php/public/assets/files
 ```
 
 # Author
-| [<img src="https://avatars2.githubusercontent.com/u/55293671?s=60&v=4" width="150" height="150"><br><sub>@HallexCosta</sub>](https://github.com/HallexCosta) |
+| [<img src="https://avatars2.githubusercontent.com/u/55293671?s=200&v=4"><br><sub>@HallexCosta</sub>](https://github.com/HallexCosta) |
 | :---: |
